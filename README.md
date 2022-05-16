@@ -1,2 +1,3 @@
 # LowQualityProject
-Big brother is watching you
+first python GUI project 
+using Tkinter
