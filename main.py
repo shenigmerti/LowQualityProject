@@ -13,7 +13,7 @@ yVelocity = 1
 
 window = Tk()
 
-window.title('Illuminanti')
+window.title('Illuminati')
 window.maxsize(700, 600)
 
 canvas = Canvas(window,width=WIDTH,height=HEIGHT)
